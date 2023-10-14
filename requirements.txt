@@ -2,3 +2,5 @@ numpy
 requests
 jupyter
 jupyterlab
+math
+json
